@@ -1,5 +1,5 @@
 # add program
-def sum_function( n1 , n2):
+def sum_function( n1 , n2):  # add two number
     return n1 + n2
 
 num1 = int ( input(“ input number 1” ) )
